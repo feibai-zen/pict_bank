@@ -10,3 +10,17 @@ def add_two_num(a, b):
         int/float: 两个数字的和
     """
     return a + b
+
+
+def concat_two_str(a, b):
+    """
+    拼接两个字符串
+
+    参数:
+        a (str): 第一个字符串
+        b (str): 第二个字符串
+
+    返回:
+        str: 拼接后的字符串
+    """
+    return a + b
