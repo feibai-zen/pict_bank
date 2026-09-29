@@ -15,7 +15,7 @@ def hello():
     返回:
         None
     """
-    pass
+    print("helloworld")
 
 
 if __name__ == "__main__":
